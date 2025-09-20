@@ -1,6 +1,6 @@
 # Agentic-Stocks-Multi-Model-System
 
-
+check the working prototype
 Prototype link : **https://agentic-multi-modal-system-for-stock-analysis-gxw8wklzdmc7wkfa.streamlit.app/**
 
 
