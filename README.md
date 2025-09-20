@@ -3,7 +3,7 @@
 
 Prototype link : **https://agentic-multi-modal-system-for-stock-analysis-gxw8wklzdmc7wkfa.streamlit.app/**
 
-<https://agentic-multi-modal-system-for-stock-analysis-gxw8wklzdmc7wkfa.streamlit.app/>
+
 
 ### A Quick Note
 
